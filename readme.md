@@ -11,7 +11,7 @@
 * [Creating an issue template for your repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
 * [Creating a pull request template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 
-## :bomb: Templates for Issues
+## :bomb: Templates for Issues2
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
